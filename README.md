@@ -18,4 +18,4 @@ Third, grep for the output:
 
 It will show:
 
-`Well, [nonsense]: read this! it's: -1 :: what a dumb answer.`
+`[12515.923433] Well,: read this! it's: -1 :: OK, done.`
