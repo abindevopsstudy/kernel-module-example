@@ -7,6 +7,7 @@ First, download it:
 
 `git clone https://github.com/abindevopsstudy/kernel-module-example`
 Second, insert the module:
+
 `cd kernel-module-example`
 
 `sudo insmod kernelmodule.ko`
